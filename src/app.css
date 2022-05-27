@@ -18,7 +18,7 @@ p, div {
 }
 
 /*
- * Allow only vertical resizing of textareas.
+ * Allow only vertical resizing of text areas.
  */
 
 textarea {
@@ -67,7 +67,7 @@ textarea {
 }
 
 h1, p {
-    margin: 50px;
+    margin: 100px;
     text-align: center;
     color: goldenrod;
 }
