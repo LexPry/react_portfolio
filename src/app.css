@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-color: grey;
+    background-color: slateblue;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -49,20 +49,27 @@ textarea {
     border-radius: 50%;
     float: left;
     margin: 20px;
-    border: 5px solid lightsteelblue;
+    border: 5px solid black;
 }
 
 .body-content, .aboutMe {
-    padding: 10px 0 0 0;
+    padding: 5px 10px 5px 10px;
     margin: 0;
     text-align: center;
     height: auto;
     width: 100vw;
-    background-color: lightsteelblue;
+    background-color: black;
 }
 
 #bottom-bar {
     text-align: center;
+    margin-top: 20px;
+}
+
+h1, p {
+    margin: 50px;
+    text-align: center;
+    color: goldenrod;
 }
 
 /*
